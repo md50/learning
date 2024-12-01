@@ -1,0 +1,114 @@
+{
+	"options": {
+		"returnResultsStatus": "true",
+		"updateCollect": "true"
+	},
+	"patient": {
+		"mrn": "MRN0000161"
+	},
+	"visit": {
+		"billingNumber": "BILL0000341"
+	},
+	"run": {
+		"instrumentCode": "WMYLA",
+		"resultingWorkstation": "MMICB"
+	},
+	"orders": {
+		"orderNumber": "240001986",
+		"tests": {
+			"testCode": "URICU",
+			"collectReceive": {
+				"collectedDate": "2024-10-09T10:41:28+00:00",
+				"receivedBy": "   "
+			},
+			"isolates": {
+				"isolateNumber": "2",
+				"externalNumber": "  ",
+				"identifications": {
+					"organism": "staaur",
+					"barcode": "  ",
+					"panel": "  ",
+					"snomed": "  ",
+					"date": "2024-10-09T10:41:28+00:00",
+					"tech": "  ",
+					"quantitation": "  ",
+					"quantitationDate": "2024-10-09T10:41:28+00:00",
+					"quantitationTech": "  ",
+					"comment": "  ",
+					"commentDate": "2024-10-09T10:41:28+00:00",
+					"commentTech": "  ",
+					"verificationDate": "2024-10-09T10:41:28+00:00",
+					"verificationTech": "  ",
+					"hemolytic": "  ",
+					"oxidaseReaction": "  ",
+					"oxacillinResult": "  ",
+					"betaLastamaseResult": "  ",
+					"organismClass": "  ",
+					"organismSet": "  ",
+					"tdsr": "  ",
+					"gssr": "  ",
+					"sssr": "  ",
+					"biotype": "  ",
+					"mdro": "  ",
+					"referenceLabInfo": " ReferenceLabResultInfo",
+					"organismCorrected": " true ",
+					"commentCorrected": " true ",
+					"quantitationCorrected": " true "
+				},
+				"sensitivityPanels": {
+					"code": "GP67",
+					"barcode": " ",
+					"type": " ",
+					"extension": " ",
+					"drugResults": {
+						"code": "esbl",
+						"result": "Pos",
+						"interpretation": "Pos",
+						"loinc": "loin",
+						"tech": "  ",
+						"comment": "  ",
+						"commentTech": "  ",
+						"verificationTech": "  ",
+						"commentDate": "2024-10-09T10:41:28+00:00",
+						"date": " 2024-10-09T10:41:28+00:00",
+						"verificationDate": "2024-10-09T10:41:28+00:00",
+						"commentCorrected": " true ",
+						"resultCorrected": "  true",
+						"interpretationCorrected": " true ",
+						"referenceLabInfo": " ReferenceLabResultInfo"
+					}
+				}
+			},
+			"correctedFlag": "true",
+			"user": "  ",
+			"tubes": {
+				"barcode": "  ",
+				"foreignBarcode": "  ",
+				"tubeType": "  ",
+				"comment": "  ",
+				"commentDate": "2024-10-09T10:41:28+00:00",
+				"commentTech": "  ",
+				"platedDate": "2024-10-09T10:41:28+00:00",
+				"platedBy": "  ",
+				"bodySite": "  ",
+				"bodySiteDescription": "  ",
+				"bodySiteSnomed": "  "
+			},
+			"results": {
+				"referenceLabInfo": "to define specific MIC not used "
+			},
+			"comment": "  ",
+			"commentDate": "2024-10-09T10:41:28+00:00",
+			"commentTech": "  ",
+			"platedDate": "2024-10-09T10:41:28+00:00",
+			"platedBy": "  ",
+			"status": "  ",
+			"statusDate": "2024-10-09T10:41:28+00:00",
+			"statusTech": "  ",
+			"isSignificant": "true",
+			"isCritical": "true",
+			"loinc": "  ",
+			"parent": "  "
+		}
+	}
+}
